@@ -57,9 +57,8 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 'We are local citizens resisting the Trump agenda through civic action.  We
-  also focus on State and Local government officials and have adopted a Republican
-  jurisdiction in NJ, our core focus remains on the principles established by indivisible. '
+subtitle: We are local citizens resisting the Trump agenda through civic action following
+  the principles established by Indivisible.
 email: 
 baseurl: 
 url: 
