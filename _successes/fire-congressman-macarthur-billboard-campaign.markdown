@@ -7,6 +7,7 @@ tags:
 - Congressman MacArthur
 - Fire
 - Billboard
+position: 1
 is featured: true
 main-image: "/uploads/Fire-MacArthur.jpg"
 layout: home
