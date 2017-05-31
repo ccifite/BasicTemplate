@@ -9,6 +9,7 @@ tags:
 - Billboard
 is featured: true
 main-image: "/uploads/Fire-MacArthur.jpg"
+layout: home
 ---
 
 The "Fire Congressman MacArthur Billboard Campaign" is a project I initiated with the goal of uniting progressive resistors from throughout our South Jersey region. It worked! This was another (very visible!) action step in our shared goal to fire Congressman MacArthur--and any other politician who puts their pocketbook ahead of their constituents, and their party above country. Our voices are strong and united! More actions will follow!
