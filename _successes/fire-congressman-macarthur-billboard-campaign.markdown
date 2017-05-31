@@ -1,6 +1,12 @@
 ---
 title: Fire Congressman MacArthur Billboard Campaign!
 date: 2017-05-31 14:05:00 -04:00
+categories:
+- billboard
+tags:
+- Congressman MacArthur
+- Fire
+- Billboard
 is featured: true
 main-image: "/uploads/Fire-MacArthur.jpg"
 ---
